@@ -1,0 +1,23 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file": "/Users/traaitt/Desktop/traaittCASHWallet/android/app/src/main/jni/Android.mk",
+    "tag": "release|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/Users/traaitt/Desktop/traaittCASHWallet/android/app/.cxx/ndkBuild/release/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/Users/traaitt/Desktop/traaittCASHWallet/android/app/src/main/jni/Android.mk",
+    "tag": "release|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/traaitt/Desktop/traaittCASHWallet/android/app/src/main/jni/Android.mk",
+    "tag": "release|x86",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

@@ -1,0 +1,14 @@
+Executable : sdk\ndk\21.0.6113669\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=E:\traaittstuff\traaittCashMobile\android\app\src\main\jni\Android.mk
+NDK_APPLICATION_MK=E:\traaittstuff\traaittCashMobile\android\app\src\main\jni\Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=0
+APP_PLATFORM=android-16
+NDK_OUT=E:/traaittstuff/traaittCashMobile/android/app/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=E:\traaittstuff\traaittCashMobile\android\app\build\intermediates\ndkBuild\release\lib
+E:/traaittstuff/traaittCashMobile/android/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libTurtleCoin_jni.so
+jvmArgs : 
+

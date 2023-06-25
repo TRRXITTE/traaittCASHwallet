@@ -1,0 +1,1 @@
+make: 'E:/traaittstuff/traaittCashMobile/android/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libTurtleCoin_jni.so' is up to date.

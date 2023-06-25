@@ -1,0 +1,1 @@
+[x86] SharedLibrary  : libTurtleCoin_jni.so

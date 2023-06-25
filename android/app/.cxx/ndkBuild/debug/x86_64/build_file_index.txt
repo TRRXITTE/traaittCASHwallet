@@ -1,0 +1,2 @@
+/Users/traaitt/Desktop/traaittCASHWallet/android/app/src/main/jni/Android.mk
+/Users/traaitt/Desktop/traaittCASHWallet/android/app/src/main/jni/Application.mk
