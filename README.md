@@ -39,7 +39,7 @@ traaittCashMobile supports two kinds of QR codes.
 
 * Standard addresses / integrated addresses - This is simply the address encoded as a QR code.
 
-* turtlecoin:// URI encoded as a QR code.
+* traaittcash:// URI encoded as a QR code.
 
 Your uri must begin with `traaittcash://` followed by the address to send to, for example, `traaittcash://cashyavy8CXG8BPEbNeCHFZ1fuDCYCZ3vW5H5LXN4K2M2MHUpTENip9bbavpHvvPwb4NDkBWrNgURAd5DB38FHXWZyoBh4wW`
 
